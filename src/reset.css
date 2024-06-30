@@ -1,0 +1,27 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+textarea,
+select,
+h1 {
+    margin: 0;
+    font: inherit;
+}
+
+button {
+    padding: 0;
+    border: none;
+    font: inherit;
+    color: inherit;
+    background-color: transparent;
+    cursor: pointer;
+}
+
+input {
+    border: none;
+    background-color: transparent;
+    outline: none;
+}

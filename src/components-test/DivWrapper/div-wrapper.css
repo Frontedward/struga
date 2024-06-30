@@ -1,0 +1,101 @@
+.div-wrapper {
+  border: 1px solid;
+  border-color: #f5e2c3;
+  border-radius: 20px;
+  height: 252px;
+  position: relative;
+  width: 416px;
+}
+
+.div-wrapper .struga-pro {
+  color: var(--orange-light);
+  font-family: "Montserrat-Regular", Helvetica;
+  font-size: 16px;
+  font-weight: 400;
+  left: 23px;
+  letter-spacing: 0;
+  line-height: 24px;
+  position: absolute;
+  top: 58px;
+  width: 368px;
+}
+
+.div-wrapper .star-1 {
+  background-image: url(../assets/star-rating.svg);
+  height: 18px;
+  left: 23px;
+  position: absolute;
+  top: 23px;
+  width: 19px;
+}
+
+.div-wrapper .star-2 {
+  background-image: url(../assets/star-rating.svg);
+  height: 18px;
+  left: 51px;
+  position: absolute;
+  top: 23px;
+  width: 19px;
+}
+
+.div-wrapper .star-3 {
+  background-image: url(../assets/star-rating.svg);
+  height: 18px;
+  left: 79px;
+  position: absolute;
+  top: 23px;
+  width: 19px;
+}
+
+.div-wrapper .star-4 {
+  background-image: url(../assets/star-rating.svg);
+  height: 18px;
+  left: 107px;
+  position: absolute;
+  top: 23px;
+  width: 19px;
+}
+
+.div-wrapper .star-5 {
+  background-image: url(../assets/star-rating.svg);
+  height: 18px;
+  left: 135px;
+  position: absolute;
+  top: 23px;
+  width: 19px;
+}
+
+.div-wrapper .ivan-ivanov {
+  background-image: url(../assets/group-9.png);
+  height: 48px;
+  left: 23px;
+  position: absolute;
+  top: 179px;
+  width: 48px;
+}
+
+.div-wrapper .text-wrapper {
+  color: var(--orange);
+  font-family: "Montserrat-Bold", Helvetica;
+  font-size: 16px;
+  font-weight: 700;
+  left: 95px;
+  letter-spacing: 0;
+  line-height: 24px;
+  position: absolute;
+  top: 178px;
+  white-space: nowrap;
+}
+
+.div-wrapper .music-hall {
+  color: var(--orange-light);
+  font-family: "Montserrat-Regular", Helvetica;
+  font-size: 16px;
+  font-weight: 400;
+  left: 95px;
+  letter-spacing: 0;
+  line-height: 24px;
+  position: absolute;
+  top: 202px;
+  white-space: nowrap;
+}
